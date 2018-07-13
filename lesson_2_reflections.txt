@@ -1,7 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+You tell git that this is where I will be doing work that will use version control. Like any other program we need to run tell the program to run when you want to
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+A staging area does not hold files like the latter do. The value is that you can ponder whether you want the changes to actually take place before git tracks changes for the files in the repo
 
 How can you use the staging area to make sure you have one commit per logical
 change?
