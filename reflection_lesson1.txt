@@ -1,0 +1,28 @@
+
+How did viewing a diff between two versions help you spot the bug?
+
+Viewing a diff helped me find the bug because it made it easy for me to spot what was added and subtracted in the latest version. So when I got to the line where space was spelled incorrectly, I noticed that the e was turned into an r.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having access to the entire history of a file can help you roll back to a previous working version of your app. This allows for you to not have to rewrite your entire application if something is broken. In addition, you can easily go back to any point in time where you'd like and choose a different path for your application functionality without rewritting all code lines you've already written.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manually saving gives the author control of the milestones to save. Makes versioning more meaningful. Automatically saving is beneficial for not losing work progress.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Difference use cases for the different systems. Googled Docs is intended to be for independent file contribution while git is for an a project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log shows all previous commits. This allows us to see the versions that have been saved over time. Using git diff allows us to see differences between saved versions.
+
+How might using version control make you more confident to make changes that could break something?
+
+Because being able to trace back when errors are introduced and where they exactly lie helps you focus on delivering code changes as quickly as possible.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use to be able to track changes in my application. As well as being able to clone repositories and push changes to an application.
