@@ -7,14 +7,19 @@ A staging area does not hold files like the latter do. The value is that you can
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Can use git status --staged to see the changes to the repository. If changes are not consistent and change many parts of the previous commit then it is probably illogical.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches are great for collaboration. They can help each contributor create a branch and then commit their changes.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams make it easy for me to follow where the log history goes and what commits are linearly related.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+We get one commit that merges both commits in chronological order. Easier to see that the two branches become one tree
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merges can run into conflicts so it'd be easier to run manually when you don't think you have any conflicts
