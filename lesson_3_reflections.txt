@@ -11,12 +11,12 @@ Because auto syncing prohibits testing out new features because your code would 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are easy ways for repositories to be cloned in the cloud. Clones take code base and replicates it on to someone else's local hard drive. Branches are partitions to code bases where contributors can isolate changes to code base before contributing change.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
