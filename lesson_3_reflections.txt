@@ -22,7 +22,8 @@ That it allows project collaborators to have redundancies in case, merge conflic
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I would have to share files back and forth between the people that are collaborating. Pretty much everything would be more difficult, tracking changes, comparing those changes to previous versions, fixing conflicts between merges.
+Cannot seem to find a single benefit of sharing local files back and forth besides can set rules to only collaborate one at a time.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
