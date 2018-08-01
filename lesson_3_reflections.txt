@@ -16,6 +16,7 @@ Forks are easy ways for repositories to be cloned in the cloud. Clones take code
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
+That it allows project collaborators to have redundancies in case, merge conflicts lead to major bugs.
 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
