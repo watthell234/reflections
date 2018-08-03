@@ -28,4 +28,4 @@ Cannot seem to find a single benefit of sharing local files back and forth besid
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+I think that the time in which you want to make changes in a branch instead of master when a developer is testing completely new features and when there are multiple people working on a project. Haing a personal branch for a big project.
